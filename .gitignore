@@ -1,0 +1,25 @@
+# Ignore environment files containing sensitive information
+.env
+
+# Ignore Python virtual environments
+venv/
+env/
+*.venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore generated images and other output files
+generated_images/ 
