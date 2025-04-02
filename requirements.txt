@@ -1,0 +1,22 @@
+# Amazon Bedrock dependencies
+boto3>=1.28.0
+botocore>=1.31.0
+
+# Web navigation and screenshot
+playwright>=1.40.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Web report generation
+jinja2>=3.1.2
+
+# Testing
+pytest>=7.4.0 

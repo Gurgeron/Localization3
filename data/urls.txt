@@ -1,0 +1,35 @@
+# Sample URLs for Guesty PMS
+# Each line represents a URL to visit and capture
+
+# Dashboard
+https://app.guesty.com/dashboard
+
+# Reservations
+https://app.guesty.com/reservations
+https://app.guesty.com/reservations/upcoming
+https://app.guesty.com/reservations/active
+https://app.guesty.com/reservations/past
+
+# Listings
+https://app.guesty.com/listings
+https://app.guesty.com/listings/active
+https://app.guesty.com/listings/inactive
+
+# Calendar
+https://app.guesty.com/calendar
+
+# Tasks
+https://app.guesty.com/tasks
+
+# Inbox
+https://app.guesty.com/inbox
+
+# Reports
+https://app.guesty.com/reports
+https://app.guesty.com/reports/financial
+https://app.guesty.com/reports/occupancy
+
+# Settings
+https://app.guesty.com/settings
+https://app.guesty.com/settings/account
+https://app.guesty.com/settings/integrations 
